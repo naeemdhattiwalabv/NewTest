@@ -12,8 +12,7 @@
     ],
     "minimum-stability": "beta",
     "require": {
-        "php": ">=7.4.3",
-        "ndtest/module-custom": "^1.0"
+        "php": ">=7.4.3"
     },
     "autoload": {
         "files": [
