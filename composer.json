@@ -10,7 +10,7 @@
             "email": "info@mage2gen.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
         "php": ">=7.4.3"
     },
