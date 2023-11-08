@@ -9,8 +9,9 @@
             "email": "info@mage2gen.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {},
+    "require": {
+        "php": ">=8.0.0"
+    },
     "autoload": {
         "files": [
             "registration.php"
