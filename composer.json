@@ -1,0 +1,22 @@
+{
+    "name": "ndtest/module-custom",
+    "description": "Brainvire CRMLogs",
+    "type": "magento2-module",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Mage2Gen",
+            "email": "info@mage2gen.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "NDTest\\Custom\\": ""
+        }
+    }
+}
